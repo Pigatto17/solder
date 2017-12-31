@@ -16,3 +16,12 @@ Install PHP 7.0
 ```
 sudo apt-get install php7.0 php7.0-bcmath php7.0-xml php7.0-mbstring php7.0-mysql php7.0-sqlite php7.0-curl php7.0-json php7.0-zip php7.0-gd php7.0-mcrypt php7.0-fpm
 ```
+
+Install other dependencies and useful programs 
+
+```
+apt-get install git
+apt-get install nano
+apt-get install nginx
+```
+
